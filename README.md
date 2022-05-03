@@ -3,6 +3,13 @@ A simple mid-semester project of Android Cellular application in Java:
 
 # Description
 An obstacle game with score and records keeping by score number and player location
+# Features 
+* Saving high scores with Shared preferences and JSON file.
+* Google maps API
+* Cool features for user experience such as background music and game responsivness
+* "Donation" to developer and the user receives a new car to play with
+* Splash screen
+* Menu with several option
 
 # Example
  
